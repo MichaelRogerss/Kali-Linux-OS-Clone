@@ -1,0 +1,17 @@
+
+@import "tailwindcss";
+
+.kalinav{
+  background:#000000ab;
+  -webkit-user-select: none; 
+  -moz-user-select: none; 
+  -ms-user-select: none;
+  user-select: none; 
+}
+button{
+  cursor:pointer;
+}
+
+.navright svg{
+  cursor:pointer;
+}
